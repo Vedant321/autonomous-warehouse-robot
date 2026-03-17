@@ -8,7 +8,7 @@ Using reinforcement learning, the robot learns optimal policies through interact
 
 ---
 
-## Problem Setting
+## Problem Setting/Markov Decsion Process (MDP)
 
 A robot operates in a **6×6 warehouse grid** containing static obstacles (shelves). Its objective is to:
 
@@ -119,4 +119,6 @@ This project reflects real-world challenges in:
 
 It demonstrates how reinforcement learning can be applied to optimize sequential decision-making in constrained environments.
 
+## Authors
+- Vedant Shinde
 ---
